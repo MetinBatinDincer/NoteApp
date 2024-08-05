@@ -100,6 +100,7 @@
         android:layout_marginTop="60dp"
         android:background="#f9d9b5"
         android:gravity="start"
+        android:textColor="@color/black"
         android:inputType="text|textMultiLine"
         android:padding="2dp"
         android:textAlignment="textStart"
